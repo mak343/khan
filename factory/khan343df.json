@@ -1,9 +1,0 @@
-{
-	"name": "khan343df",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "ddbb1b71-5847-424a-8c75-51d42a67b611",
-		"tenantId": "7db98217-679b-453d-b682-a8e8a66a8a96"
-	}
-}
