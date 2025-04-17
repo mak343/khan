@@ -4,7 +4,7 @@
 		"annotations": [],
 		"type": "HttpServer",
 		"typeProperties": {
-			"url": "https://raw.githubusercontent.com/mak343/khan/blob/main/EntriesGender.csv",
+			"url": "https://raw.githubusercontent.com/mak343/khan/b7dc81507e83b673eef033061f6fb31b582aecb9/EntriesGender.csv",
 			"enableServerCertificateValidation": true,
 			"authenticationType": "Anonymous"
 		}
